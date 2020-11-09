@@ -1,0 +1,78 @@
+[submodule "pack/global/start/ale"]
+	path = pack/global/start/ale
+	url = https://github.com/dense-analysis/ale
+[submodule "pack/global/start/editorconfig-vim"]
+	path = pack/global/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/global/start/nerdtree-git-plugin"]
+	path = pack/global/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "pack/global/start/nerdtree"]
+	path = pack/global/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/global/start/pear-tree"]
+	path = pack/global/start/pear-tree
+	url = https://github.com/tmsvg/pear-tree
+[submodule "pack/global/start/tabular"]
+	path = pack/global/start/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "pack/global/start/tagbar"]
+	path = pack/global/start/tagbar
+	url = https://github.com/preservim/tagbar
+[submodule "pack/global/start/vim-closetag"]
+	path = pack/global/start/vim-closetag
+	url = https://github.com/alvan/vim-closetag
+[submodule "pack/global/start/vim-gitgutter"]
+	path = pack/global/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/global/start/vim-wakatime"]
+	path = pack/global/start/vim-wakatime
+	url = https://github.com/wakatime/vim-wakatime
+[submodule "pack/syntax/start/Dockerfile.vim"]
+	path = pack/syntax/start/Dockerfile.vim
+	url = https://github.com/ekalinin/Dockerfile.vim
+[submodule "pack/syntax/start/SimpylFold"]
+	path = pack/syntax/start/SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold
+[submodule "pack/syntax/start/coc.nvim"]
+	path = pack/syntax/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+[submodule "pack/syntax/start/csv.vim"]
+	path = pack/syntax/start/csv.vim
+	url = https://github.com/chrisbra/csv.vim
+[submodule "pack/syntax/start/html5.vim"]
+	path = pack/syntax/start/html5.vim
+	url = https://github.com/sheerun/html5.vim
+[submodule "pack/syntax/start/pgsql.vim"]
+	path = pack/syntax/start/pgsql.vim
+	url = https://github.com/lifepillar/pgsql.vim
+[submodule "pack/syntax/start/python-syntax"]
+	path = pack/syntax/start/python-syntax
+	url = https://github.com/vim-python/python-syntax
+[submodule "pack/syntax/start/vim-javascript"]
+	path = pack/syntax/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "pack/syntax/start/vim-json"]
+	path = pack/syntax/start/vim-json
+	url = https://github.com/elzr/vim-json
+[submodule "pack/syntax/start/vim-markdown"]
+	path = pack/syntax/start/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown
+[submodule "pack/syntax/start/vim-python-pep8-indent"]
+	path = pack/syntax/start/vim-python-pep8-indent
+	url = https://github.com/Vimjas/vim-python-pep8-indent
+[submodule "pack/syntax/start/vim-sh"]
+	path = pack/syntax/start/vim-sh
+	url = https://github.com/arzg/vim-sh
+[submodule "pack/syntax/start/vim-stylus"]
+	path = pack/syntax/start/vim-stylus
+	url = https://github.com/wavded/vim-stylus
+[submodule "pack/syntax/start/vim-xml"]
+	path = pack/syntax/start/vim-xml
+	url = https://github.com/amadeus/vim-xml
+[submodule "pack/themes/start/vim-airline"]
+	path = pack/themes/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/themes/start/vim-airline-themes"]
+	path = pack/themes/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
